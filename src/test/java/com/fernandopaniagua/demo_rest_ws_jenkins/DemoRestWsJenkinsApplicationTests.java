@@ -12,5 +12,4 @@ class DemoRestWsJenkinsApplicationTests {
 		int resultado = 2 + 2;
 		assertEquals(4, resultado, "La suma de 2 + 2 debería ser 4");
 	}
-
 }
