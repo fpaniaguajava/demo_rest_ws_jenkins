@@ -12,7 +12,7 @@ public class DemoController {
         return Map.of(
                 "titulo", "Batman",
                 "plataforma", "Amstrad CPC",
-                "desarrolladora", "Ocean Software",
+                "desarrollador", "Ocean Software",
                 "año", 1986,
                 "genero", "Aventura isométrica",
                 "descripcion", "Batman es un videojuego de aventura en perspectiva isométrica lanzado en 1986, donde el jugador debe reunir las piezas del Batmóvil y rescatar a Robin dentro de una cueva laberíntica."
