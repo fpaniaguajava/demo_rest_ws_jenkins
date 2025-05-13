@@ -15,7 +15,7 @@ public class DemoController {
                 "desarrollador", "Ocean Software",
                 "autor", "Jon Ritman",
                 "año", 1986,
-                "genero", "Aventura isométrica",
+                "genero", "Plataformas",
                 "descripcion", "Batman es un videojuego de aventura en perspectiva isométrica lanzado en 1986, donde el jugador debe reunir las piezas del Batmóvil y rescatar a Robin dentro de una cueva laberíntica."
         );
     }
